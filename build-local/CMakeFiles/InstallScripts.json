@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/joshpointer/Developer/projectm/build-local/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/glad/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/glm/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/hlslparser/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/projectm-eval/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/projectm-eval/projectm-eval/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/vendor/stb_image/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/presets/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/api/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/libprojectM/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/libprojectM/Audio/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/libprojectM/MilkdropPreset/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/libprojectM/Renderer/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/libprojectM/UserSprites/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/playlist/cmake_install.cmake",
+		"/Users/joshpointer/Developer/projectm/build-local/src/sdl-test-ui/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
